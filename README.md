@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedul28" alt="rashedul28" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **PHP, Python**
+- 💬 Ask me about **PHP, Python, React, Laravel**
 
 - 📫 How to reach me **rashedulislamridoy@gmail.com**
 
